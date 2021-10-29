@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+#header{
+	height: 5vw;
+	top: 0;
+	width: 100vw;
+	background: black;
+	position: fixed;
+}
+
+#header img{
+	float: left;
+	
+}
+
+.navbar{
+	height: 4vw;
+	width: 40vw;
+	top: 0;
+	background: white;
+	margin: auto;
+}
+
+
