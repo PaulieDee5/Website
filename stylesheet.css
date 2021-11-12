@@ -44,7 +44,11 @@
 	
 }
 
-
+video{
+	padding: 3em;
+	left: 50%;
+	margin-left: 13em;
+}
 
 /*#header{
 	height: 6vw;
@@ -139,17 +143,28 @@ h1{
 	width: 40vw;
 	background-color: white;
 	margin-left: 15vw;
-	margin-top: 5vw;
+	margin-top: 14em;
 	margin-bottom: 10vw;
 	padding: 5vw;
 
 }
-.h2{
+h2{
 	font-size: 70px;
 	color: black;
-	text-decoration: underline 8px solid #black;
+	font-weight: bold;
+	text-decoration: underline 9px solid black;
 	margin: auto;
 }
+
+p{
+	margin-top: 1em;
+	font-padding: 1em;
+	text-align: left;
+	font-size: 20px;
+	line-height: 25px;
+
+}
+
 .block3{
 	height: 40vw;
 	width: 100vw;
